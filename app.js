@@ -23,7 +23,7 @@ config(['$routeProvider', '$locationProvider', '$compileProvider', 'pushNotifica
 	var staticPath;
 	// staticPath ='/angular-services/angular-push-notification/';		//local
 	// staticPath ='/';		//nodejs (local)
-	staticPath ='/angular-push-notification/';		//gh-pages
+	staticPath ='/kwyspa.angular-push-notification/';		//gh-pages
 	var appPathRoute ='/';
 	var pagesPath =staticPath+'pages/';
 	
