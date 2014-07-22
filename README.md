@@ -3,7 +3,7 @@
 [TODO - brief summary]
 
 ## Demo
-http://kwyspa.github.io/angular-push-notification/
+http://kwyspa.github.io/kwyspa.angular-push-notification/
 
 ## Dependencies
 - required:
@@ -26,7 +26,7 @@ See the `gh-pages` branch, files `bower.json` and `index.html` for a full exampl
 
 ## Documentation
 See the `push-notification.js` file top comments for usage examples and documentation
-https://github.com/kwyspa/angular-push-notification/blob/master/push-notification.js
+https://github.com/kwyspa/kwyspa.angular-push-notification/blob/master/push-notification.js
 
 
 ## Development
