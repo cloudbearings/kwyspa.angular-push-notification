@@ -1,3 +1,7 @@
 <div ng-controller='HomeCtrl'>	
-	<!-- TODO: place directive call here -->
+	<button ng-click="requestPermission()">Enable</button>
+	<button ng-click="sendNotification()" ng-disabled="!notificationsEnabled()">Send example notification</button>
+	<button ng-click="disable()" ng-disabled="!notificationsEnabled()">Disable</button>
+
+	Are notifications enabled? {{notificationsEnabled()}}
 </div>
