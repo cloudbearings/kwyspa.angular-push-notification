@@ -1,0 +1,31 @@
+{
+	"name": "angular-push-notification",
+	"version": "1.0.0",
+	"authors": [
+		"Kamil Wysocki <kamwysocki@gmail.com>"
+	],
+	"description": "AngularJS HTML5 notifications.",
+	"keywords": [
+		"angular,",
+		"angularjs,",
+		"notification,",
+		"notifications,",
+		"html5,",
+		"push,",
+		"toast,",
+		"popup"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"angular":"~1.2.0"
+	},
+	"devDependencies": {
+	}
+}
